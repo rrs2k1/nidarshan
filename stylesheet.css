@@ -1,0 +1,38 @@
+﻿.top-bar-wrapper {
+    height: 50px;
+    background: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo {
+    width:70px;
+    margin-right:auto;
+    padding-left:20px;
+}
+
+.mid-options {
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-color {
+    color:white;
+    font-family:Calibri;
+}
+
+.call-button {
+    width: 60px;
+    margin-left: auto;
+    padding-top: 13.8px;
+    padding-right: 13.7px;
+}
+
+.call-us-heading {
+    display: flex;
+    justify-content: center;
+    padding-top:50px;
+}
