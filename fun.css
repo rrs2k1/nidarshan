@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://imgs.search.brave.com/DAPJ2HEcPGiWOiHfJREBGXs0pVheOUOTxBC5e8b3tTE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMudmVjdGVlenku/Y29tL3N5c3RlbS9y/ZXNvdXJjZXMvdGh1/bWJuYWlscy8wMDIv/Mjk0Lzk5Ni9zbWFs/bC9ibG9vZC1yZWQt/ZGlnaXRhbC1zb3Vu/ZC13YXZlLWxvdy1h/bmQtaGlnaHQtcmlj/aHRlci1zY2FsZS1i/YWNrZ3JvdW5kLXRl/Y2hub2xvZ3ktYW5k/LWVhcnRocXVha2Ut/d2F2ZS1kaWFncmFt/LWFuZC1tb3Zpbmct/aGVhcnQtY29uY2Vw/dC1kZXNpZ24tZm9y/LW11c2ljLXN0dWRp/by1hbmQtc2NpZW5j/ZS1pbGx1c3RyYXRp/b24tdmVjdG9yLmpw/Zw");
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    font-family: "Share Tech", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+}
+
+#description {
+    margin-top: -25.5px;
+    text-align: center; 
+}
+
+h1 {
+    margin-bottom: 23%;
+    margin-left: -14px;
+    line-height: 0;
+    font-size: 100px;
+    text-shadow: 0px 0px 10px white;
+}
+
+p {    
+    line-height: 0;
+    font-weight: 100;
+    font-size: 30px;
+    text-shadow: 0px 0px 10px white;
+}
+
+#main-desc {
+    display: flex;
+    margin-top: 20%;
+    padding-left: 35%;
+}
